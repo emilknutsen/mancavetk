@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: rgb(20, 20, 20);
+}
+header {
+    background: rgb(29, 29, 29);
+}
+section {
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    color: rgb(197, 191, 191);
+}
+button {
+    background: red;
+}
